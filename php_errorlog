@@ -1,0 +1,8 @@
+[25-Mar-2018 18:20:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/serpline/public_html/wp-content/themes/serpline/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/serpline/public_html/wp-content/themes/serpline/index.php on line 15
+[25-Mar-2018 18:20:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/serpline/public_html/wp-content/themes/serpline/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/serpline/public_html/wp-content/themes/serpline/index.php on line 15
